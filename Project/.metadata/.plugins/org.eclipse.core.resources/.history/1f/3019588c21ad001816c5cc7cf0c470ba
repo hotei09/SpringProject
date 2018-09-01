@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Project</title>
+</head>
+<body>
+ Wellcome to the world
+ 
+ <hr>
+ 
+ <ul>
+ 	<li>One</li>
+ 	<li>Two</li>
+ 	<li>Three</li>
+ 	<li>Four</li>
+ 	<li>Five</li>
+ </ul>
+</body>
+</html>
